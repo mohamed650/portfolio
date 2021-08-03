@@ -70,8 +70,8 @@ body {
 }
 
 
-@media(min-width:500px){
+@media(min-width:400px){
   #contact{
-    width: 100%
+    width: 50%
   }
 }
